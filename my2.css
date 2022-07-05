@@ -1,0 +1,48 @@
+H1.second{
+    text-align: center;
+    color: red;
+    border-left: 6px solid red;
+    border-right: 6px solid red;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+p.first{
+    text-align: center;
+    /* outline: red solid 1px; */
+    /* background-color: gray;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 100px; */
+}
+p.second{
+    text-align: center;
+    
+}
+img.first{
+    text-align: center;
+}
+div.R{
+    text-align: center;
+}
+div.E{
+    text-align: right;
+}
+h1.New{
+    color: red;
+}
+h3.E{
+    color: red;
+}
+p.keshav{
+text-align: center;
+color: royalblue;
+size: 6px;
+}
+*{
+    padding: 0cm;
+}
+/* table{
+    border: 5px solid red;
+    background-color: red;
+    padding: 10px;
+    word-spacing: 1cm;
+} */
