@@ -5,6 +5,23 @@ H1.second{
     border-right: 6px solid red;
     /* font-family: Arial, Helvetica, sans-serif; */
 }
+#aligng{
+    text-align: center;
+    margin-top: 6px;
+}
+#alignn{
+    text-align: center;   
+    margin-top: 6px;
+}
+#aligngn{
+    text-align: center;
+    margin-top: 6px;
+}
+#align{
+    margin-top: 6px;
+    text-align: center;
+}
+
 p.first{
     text-align: center;
     /* outline: red solid 1px; */
