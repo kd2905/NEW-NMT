@@ -15,7 +15,6 @@ H1.second{
 }
 section.bgcolor{
     background-color: red;
-text-emphasis-color: white;
 }
 div.center{
     text-align: center;
@@ -51,7 +50,7 @@ div.E{
     text-align: right;
 }
 h1.New{
-    color: whiitesmoke;
+    color: whitesmoke;
 }
 h3.E{
     color: red;
