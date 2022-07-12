@@ -16,6 +16,7 @@ H1.second{
 section.bgcolor{
     background-color: red;
     border: 6px solid red;
+    margin-top: 2cm;
 }
 h3.hal{
     color: darkblue;
