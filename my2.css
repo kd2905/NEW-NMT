@@ -28,6 +28,9 @@ img.margin{
     margin-left: 3cm;
     border: 0px;
 }
+img.m{
+    margin-top: 1cm;
+}
 p.RAM{
     margin-left: 2cm;
     margin-top: 0cm;
